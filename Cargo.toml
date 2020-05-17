@@ -1,0 +1,14 @@
+[package]
+name = "eieio"
+version = "1.0.0"
+authors = ["kennytm <kennytm@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "Error Implementing `Eq + Clone` replacing `std::io::Error`"
+repository = "https://github.com/kennytm/eieio"
+readme = "README.md"
+keywords = ["io", "error", "eq", "clone"]
+categories = ["rust-patterns"]
+
+[badges]
+maintenance = { status = "as-is" }
